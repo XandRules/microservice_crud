@@ -28,4 +28,4 @@ spring:
 crud:
   rabbitmq:
     exchange: crud.exchange
-    routingKey: crud.produto.routingKey    
+    routingkey: crud.produto.routingkey    

@@ -4,7 +4,6 @@ import com.xandrules.crud.entity.Produto;
 import lombok.*;
 import org.modelmapper.ModelMapper;
 import org.springframework.hateoas.RepresentationModel;
-import org.springframework.ui.ModelMap;
 
 import java.io.Serializable;
 
